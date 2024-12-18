@@ -15,7 +15,7 @@ Creamos la base de datos con nombre EMPRESA
 
 indicamos que vamos a usar la base de datos llamada EMPRESA
 ```sql
- USE  EMPRESA
+ USE DATABASE EMPRESA
 ```
 
 Creamos  la tabla departamentos
